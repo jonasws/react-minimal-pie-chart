@@ -79,7 +79,7 @@
     "babel-loader": "^8.2.2",
     "es-check": "^6.0.0",
     "jest": "^27.1.0",
-    "lint-staged": "^11.1.2",
+    "lint-staged": "^11.2.6",
     "prettier": "^2.2.1",
     "prop-types": "^15.7.2",
     "react": "^17.0.1",
